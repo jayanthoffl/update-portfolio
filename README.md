@@ -6,11 +6,12 @@ This project showcases skills, projects, and achievements with a clean UI/UX des
 ---
 
 ## 📖 Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Folder Structure](#folder-structure)
+- [About](#-about)
+- [Features](#-features)
+- [Demo](#-demo)
+- [Installation](#-installation)
+- [Folder Structure](#-folder-structure)
+
 
 
 ---
