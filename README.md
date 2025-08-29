@@ -49,11 +49,11 @@ update-portfolio/
 │   └── icons/
 └── README.md
 
-
-
+``` 
+## Clone the Repo
 ```bash
-# Clone the repo
 git clone https://github.com/jayanthoffl/update-portfolio.git
 
+```
 # Navigate into folder
 cd update-portfolio
