@@ -37,7 +37,9 @@ Live Preview → [Preview of Deployed Website](https://jayanth-ramakrishnan.netl
 ## ⚡ Installation
 Clone the repo and run locally:
 
-## Folder Structure
+## 📂 Folder Structure
+
+```bash
 update-portfolio/
 │-- index.html
 │-- style.css
@@ -46,6 +48,7 @@ update-portfolio/
 │   ├── images/
 │   └── icons/
 └── README.md
+
 
 
 ```bash
